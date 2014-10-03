@@ -1,0 +1,6 @@
+git@github.com:ScarlettLi/Demos.gita
+
+git clone git@github.com:ScarlettLi/Demos.git
+git add --all
+git commit -m'add a new folder'
+git push origin master
